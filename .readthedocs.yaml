@@ -13,3 +13,7 @@ python:
   install:
     - method: pip
       path: .
+# adding support of other docs format     
+formats:
+  - pdf
+  - epub
